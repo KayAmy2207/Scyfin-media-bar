@@ -1,21 +1,36 @@
+# Scyfin Media Bar CSS
+
+**Scyfin Media Bar CSS** est un thème CSS personnalisé pour le plugin **Media Bar** de **Jellyfin**, offrant un style moderne avec coins arrondis et intégration fluide avec le thème Scyfin.
+
+## Fonctionnalités
+
+* Support complet du plugin Media Bar.
+* Design adapté au thème **Scyfin**.
+* Coins arrondis pour tous les boutons.
+* Compatible avec les dernières versions de Jellyfin.
+
+## Installation
+
+Ajoutez simplement le CSS via `@import` dans votre projet Jellyfin :
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/guillaumebertrant1994-pixel/Scyfin-media-bar@main/scyfinmediabar.css");
+```
+
+## Captures d’écran
+
 <img width="1848" height="882" alt="image" src="https://github.com/user-attachments/assets/e5be0582-ab73-4b7d-9a6f-e02c8fc2bbd4" />
 
-This CSS stylesheet customizes the **Media Bar plugin** for the **ScyFin theme** in Jellyfin.
-It enlarges and rounds visual elements for a smoother appearance while removing all media control buttons for a cleaner, more minimal interface.
+## Liens utiles
 
-Main changes include:
+* [Jellyfin Media Bar Plugin]([https://jellyfin.org](https://github.com/IAmParadox27/jellyfin-plugin-media-bar))
+* [Scyfin Theme]([https://github.com/scyfin](https://github.com/loof2736/scyfin))
 
-* Complete removal of play, detail, and favorite buttons
-* Rounded corners for backdrops and containers
-* Adjusted gradient masks for a softer visual effect
-* Improved layout positioning across desktop and mobile views
+## Mots-clés / Topics
 
-Designed to enhance the ScyFin theme with a modern, minimal, and elegant look.
+`Jellyfin`, `Media Bar`, `CSS`, `Scyfin`, `thème`, `plugin`, `customization`, `UI`, `media player`
 
-put this css in jellyfin
-
-@import url("https://cdn.jsdelivr.net/gh/guillaumebertrant1994-pixel/Scyfin-media-bar@main/scyfinmediabar.css");
-
+---
 
 ⚠️ Disclaimer
 
