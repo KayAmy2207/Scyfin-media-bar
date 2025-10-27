@@ -23,8 +23,8 @@ Ajoutez simplement le CSS via `@import` dans votre projet Jellyfin :
 
 ## Liens utiles
 
-* [Jellyfin Media Bar Plugin]([https://jellyfin.org](https://github.com/IAmParadox27/jellyfin-plugin-media-bar))
-* [Scyfin Theme]([https://github.com/scyfin](https://github.com/loof2736/scyfin))
+* [Jellyfin Media Bar Plugin](https://jellyfin.org](https://github.com/IAmParadox27/jellyfin-plugin-media-bar)
+* [Scyfin Theme](https://github.com/scyfin](https://github.com/loof2736/scyfin)
 
 ## Mots-clés / Topics
 
