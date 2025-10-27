@@ -1,0 +1,64 @@
+/* Media Bar plugin support ScyFin - légèrement plus gros avec coins arrondis et sans boutons */
+
+.button-container,
+.favorite-button,
+.detail-button,
+.play-button {
+    display: none; /* supprime complètement les boutons */
+}
+
+.backdrop,
+.backdrop-container,
+.backdrop-overlay {
+    mask-image: linear-gradient(180deg, rgba(0,0,0,.85), 70%, rgba(0,0,0,0));
+    -webkit-mask-image: linear-gradient(180deg, rgba(0,0,0,.85), 70%, rgba(0,0,0,0));
+    background-color: transparent;
+    border-radius: 16px; /* coins arrondis pour les backdrops */
+}
+
+.backdrop {
+    transform-origin: center left;
+}
+
+.rating-value {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.age-rating {
+    font-size: .85em;
+}
+
+#slides-container {
+    width: calc(96vw);
+    height: 58%;
+    top: 6.5em;
+    border: var(--default-border);
+    border-radius: 20px; /* coins arrondis pour le container */
+    transition: all .125s, border 0s;
+    user-select: none;
+}
+
+.layout-tv #slides-container {
+    top: 0;
+}
+
+.layout-mobile #slides-container {
+    top: 8.5em;
+}
+
+.logo-container {
+    top: 8vh;
+}
+
+.backdrop-overlay {
+    background: linear-gradient(0deg, rgba(0,0,0,.85), 40%, transparent);
+    border-radius: 16px;
+}
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+    .info-container {}
+    .tomato-rating { display: none; }
+    .dots-container { top: calc(50% + 19vh); }
+    .backdrop { transform-origin: center; }
+}
