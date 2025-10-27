@@ -1,3 +1,5 @@
+<img width="1848" height="882" alt="image" src="https://github.com/user-attachments/assets/e5be0582-ab73-4b7d-9a6f-e02c8fc2bbd4" />
+
 This CSS stylesheet customizes the **Media Bar plugin** for the **ScyFin theme** in Jellyfin.
 It enlarges and rounds visual elements for a smoother appearance while removing all media control buttons for a cleaner, more minimal interface.
 
