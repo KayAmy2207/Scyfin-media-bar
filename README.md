@@ -5,10 +5,17 @@
 ## Features
 
 * Full support for the Media Bar plugin.
-* Design adapted for the **Scyfin** theme.
-* Rounded corners.
-* Compatible with the latest versions of Jellyfin.
-* Functional on both PC and mobile devices.
+* Design perfectly adapted for the Scyfin theme.
+* Rounded corners for images, frames, and overlays.
+* Clean interface: all buttons (play, favorites, details) are hidden.
+* Smooth fade effect on background images for a cinematic look.
+* Ratings are centered and can wrap neatly on multiple lines.
+* Age rating text is slightly smaller for a subtle touch.
+* Carousel slides container is resized and positioned for better display.
+* Logo positioned nicely at the top for a polished layout.
+* Fully responsive: works beautifully on PC and mobile devices.
+* Optimized for small screens: hides certain ratings, repositions navigation dots, and centers images.
+* Compatible with the latest Jellyfin versions.
 
 ## Installation
 
@@ -39,11 +46,18 @@ Simply add the CSS via `@import` in your Jellyfin project:
 
 ## Fonctionnalités
 
-* Support complet du plugin Media Bar.
-* Design adapté au thème **Scyfin**.
-* Coins arrondis.
+* Prise en charge complète du plugin Media Bar.
+* Design parfaitement adapté au thème Scyfin.
+* Coins arrondis pour les images, cadres et overlays.
+* Interface épurée : tous les boutons (lecture, favoris, détails) sont cachés.
+* Effet de fondu sur les images d’arrière-plan pour un look cinématographique.
+* Notes centrées et affichables sur plusieurs lignes.
+* Texte des notes d’âge légèrement réduit pour un rendu subtil.
+* Container du carrousel redimensionné et repositionné pour un meilleur affichage.
+* Logo joliment placé en haut pour un layout soigné.
+* Entièrement responsive : fonctionne parfaitement sur PC et mobile.
+* Optimisé pour les petits écrans : certaines notes cachées, points de navigation repositionnés, images centrées.
 * Compatible avec les dernières versions de Jellyfin.
-* Fonctionnel sur PC et appareils mobiles.
 
 ## Installation
 
