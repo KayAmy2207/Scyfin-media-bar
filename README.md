@@ -1,4 +1,5 @@
 <img width="2656" height="1344" alt="Picsart_25-09-08_16-27-38-542" src="https://github.com/user-attachments/assets/cdca3881-d2eb-4025-8804-2caae916e006" />
+
 # Scyfin Media Bar CSS
 
 **Scyfin Media Bar CSS** is a custom CSS theme for the **Media Bar** plugin in **Jellyfin**, providing a modern look with rounded corners and smooth integration with the Scyfin theme.
