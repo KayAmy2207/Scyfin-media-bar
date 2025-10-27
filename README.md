@@ -13,6 +13,7 @@ Main changes include:
 Designed to enhance the ScyFin theme with a modern, minimal, and elegant look.
 
 Copy this link into the CSS section in Jellyfin.
+
 @import url("https://cdn.jsdelivr.net/gh/guillaumebertrant1994-pixel/Scyfin-media-bar/scyfin%20media%20bar%20css");
 
 
