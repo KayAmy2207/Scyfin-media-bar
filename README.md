@@ -6,7 +6,7 @@
 
 * Full support for the Media Bar plugin.
 * Design adapted for the **Scyfin** theme.
-* Rounded corners for all buttons.
+* Rounded corners.
 * Compatible with the latest versions of Jellyfin.
 * Functional on both PC and mobile devices.
 
@@ -41,7 +41,7 @@ Simply add the CSS via `@import` in your Jellyfin project:
 
 * Support complet du plugin Media Bar.
 * Design adapté au thème **Scyfin**.
-* Coins arrondis pour tous les boutons.
+* Coins arrondis.
 * Compatible avec les dernières versions de Jellyfin.
 * Fonctionnel sur PC et appareils mobiles.
 
