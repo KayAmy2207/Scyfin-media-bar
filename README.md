@@ -22,7 +22,7 @@
 Simply add the CSS via `@import` in your Jellyfin project:
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/guillaumebertrant1994-pixel/Scyfin-media-bar@main/scyfinmediabar.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/scyfinmediabar.css");
 ```
 
 ## Screenshots
@@ -64,7 +64,7 @@ Simply add the CSS via `@import` in your Jellyfin project:
 Ajoutez simplement le CSS via `@import` dans votre projet Jellyfin :
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/guillaumebertrant1994-pixel/Scyfin-media-bar@main/scyfinmediabar.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/scyfinmediabar.css");
 ```
 
 ## Captures d’écran
