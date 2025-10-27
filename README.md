@@ -14,6 +14,9 @@ Designed to enhance the ScyFin theme with a modern, minimal, and elegant look.
 
 put this css in jellyfin
 
+@import url("https://cdn.jsdelivr.net/gh/guillaumebertrant1994-pixel/Scyfin-media-bar@main/scyfinmediabar.css");
+
+
 ⚠️ Disclaimer
 
 I did not create this code.
