@@ -8,6 +8,7 @@
 * Design adapted for the **Scyfin** theme.
 * Rounded corners for all buttons.
 * Compatible with the latest versions of Jellyfin.
+* Functional on both PC and mobile devices.
 
 ## Installation
 
@@ -50,6 +51,7 @@ I claim no credit for this work — it is simply a functional combination and ad
 * Design adapté au thème **Scyfin**.
 * Coins arrondis pour tous les boutons.
 * Compatible avec les dernières versions de Jellyfin.
+* Fonctionnel sur PC et appareils mobiles.
 
 ## Installation
 
