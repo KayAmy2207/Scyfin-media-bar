@@ -9,3 +9,9 @@ Main changes include:
 * Improved layout positioning across desktop and mobile views
 
 Designed to enhance the ScyFin theme with a modern, minimal, and elegant look.
+
+⚠️ Disclaimer
+
+I did not create this code.
+It was made using the information I had, combined with the CSS from ScyFin, the Media Bar plugin, and assistance from ChatGPT.
+I claim no credit for this work — it is simply a functional combination and adjustment of existing resources.
