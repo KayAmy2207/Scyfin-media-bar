@@ -33,14 +33,6 @@ Simply add the CSS via `@import` in your Jellyfin project:
 
 ---
 
-⚠️ **Disclaimer**
-
-I did not create this code.
-It was made using the available information, combining the CSS from ScyFin, the Media Bar plugin, and assistance from ChatGPT.
-I claim no credit for this work — it is simply a functional combination and adjustment of existing resources.
-
----
-
 # Scyfin Media Bar CSS
 
 **Scyfin Media Bar CSS** est un thème CSS personnalisé pour le plugin **Media Bar** de **Jellyfin**, offrant un style moderne avec coins arrondis et une intégration fluide avec le thème Scyfin.
@@ -73,13 +65,5 @@ Ajoutez simplement le CSS via `@import` dans votre projet Jellyfin :
 ## Mots-clés / Topics
 
 `Jellyfin`, `Media Bar`, `CSS`, `Scyfin`, `thème`, `plugin`, `customization`, `UI`, `lecteur multimédia`
-
----
-
-⚠️ **Disclaimer**
-
-Je n’ai pas créé ce code.
-Il a été réalisé à partir des informations disponibles, combinant le CSS de ScyFin, le plugin Media Bar et l’aide de ChatGPT.
-Je ne revendique aucun crédit pour ce travail — c’est simplement une combinaison fonctionnelle et un ajustement de ressources existantes.
 
 ---
