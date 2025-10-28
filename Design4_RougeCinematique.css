@@ -1,4 +1,4 @@
-/* ScyFin Media Bar - Design 4 : Cinématique rouge profond */
+/* ScyFin Media Bar - Design 3 : Rouge organique translucide */
 
 .button-container,
 .favorite-button,
@@ -8,20 +8,32 @@
 }
 
 #slides-container {
-    width: 96vw;
-    height: 58%;
-    top: 6.5em;
-    border-radius: 12px;
-    background: linear-gradient(180deg, rgba(80,0,0,0.8), rgba(20,0,0,0.9));
-    border: 1px solid rgba(255,50,50,0.4);
-    box-shadow: 0 0 30px rgba(255, 0, 0, 0.2), inset 0 0 15px rgba(255, 0, 0, 0.1);
-    transition: all .25s ease;
+    width: 95vw;
+    height: 57%;
+    top: 7em;
+    border-radius: 35px 10px 35px 10px;
+    /* CHANGÉ: Gradient rouge-magenta */
+    background: radial-gradient(circle at top left, rgba(255,0,120,0.2), rgba(100,0,50,0.3));
+    backdrop-filter: blur(10px);
+    /* CHANGÉ: Bordure rouge-magenta */
+    border: 1px solid rgba(255,0,150,0.2);
+    /* CHANGÉ: Ombre rouge-magenta */
+    box-shadow: inset 0 0 20px rgba(255,0,150,0.1), 0 0 25px rgba(255,0,120,0.2);
+    transition: all .3s ease;
 }
+
 #slides-container:hover {
-    border-color: rgba(255,100,100,0.8);
-    box-shadow: 0 0 40px rgba(255,0,0,0.4);
+    /* CHANGÉ: Hover gradient rouge-magenta */
+    background: radial-gradient(circle at bottom right, rgba(255,0,120,0.35), rgba(100,0,50,0.3));
 }
+
 .backdrop-overlay {
-    background: linear-gradient(0deg, rgba(0,0,0,.95), 40%, transparent);
-    border-radius: 12px;
+    /* CHANGÉ: Overlay bas rouge foncé */
+    background: linear-gradient(0deg, rgba(40,0,0,.85), 40%, transparent);
+    border-radius: 35px 10px 35px 10px;
+}
+
+.logo-container {
+    top: 6vh !important;
+    position: absolute !important;
 }
