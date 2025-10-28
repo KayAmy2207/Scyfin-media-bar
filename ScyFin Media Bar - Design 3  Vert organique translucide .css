@@ -1,0 +1,27 @@
+/* ScyFin Media Bar - Design 3 : Vert organique translucide */
+
+.button-container,
+.favorite-button,
+.detail-button,
+.play-button {
+    display: none;
+}
+
+#slides-container {
+    width: 95vw;
+    height: 57%;
+    top: 7em;
+    border-radius: 35px 10px 35px 10px;
+    background: radial-gradient(circle at top left, rgba(0,255,120,0.2), rgba(0,100,50,0.3));
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(0,255,150,0.2);
+    box-shadow: inset 0 0 20px rgba(0,255,150,0.1), 0 0 25px rgba(0,255,120,0.2);
+    transition: all .3s ease;
+}
+#slides-container:hover {
+    background: radial-gradient(circle at bottom right, rgba(0,255,120,0.35), rgba(0,100,50,0.3));
+}
+.backdrop-overlay {
+    background: linear-gradient(0deg, rgba(0,40,0,.85), 40%, transparent);
+    border-radius: 35px 10px 35px 10px;
+}
