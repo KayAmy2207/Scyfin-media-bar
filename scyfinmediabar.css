@@ -48,7 +48,7 @@
 }
 
 .logo-container {
-    top: 8vh;
+    top: 4vh;
 }
 
 .backdrop-overlay {
@@ -61,4 +61,5 @@
     .tomato-rating { display: none; }
     .dots-container { top: calc(50% + 19vh); }
     .backdrop { transform-origin: center; }
+
 }
