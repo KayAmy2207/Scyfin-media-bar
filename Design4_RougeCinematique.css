@@ -1,4 +1,4 @@
-/* ScyFin Media Bar - Design 3 : Rouge organique translucide */
+/* ScyFin Media Bar - Design 3 : Rouge organique translucide (Basé sur la version verte) */
 
 .button-container,
 .favorite-button,
@@ -12,23 +12,23 @@
     height: 57%;
     top: 7em;
     border-radius: 35px 10px 35px 10px;
-    /* CHANGÉ: Gradient rouge-magenta */
-    background: radial-gradient(circle at top left, rgba(255,0,120,0.2), rgba(100,0,50,0.3));
+    /* ROUGE: radial-gradient(cercle coin supérieur gauche, rouge vif transparent, rouge foncé transparent) */
+    background: radial-gradient(circle at top left, rgba(255,50,50,0.2), rgba(100,0,0,0.3));
     backdrop-filter: blur(10px);
-    /* CHANGÉ: Bordure rouge-magenta */
-    border: 1px solid rgba(255,0,150,0.2);
-    /* CHANGÉ: Ombre rouge-magenta */
-    box-shadow: inset 0 0 20px rgba(255,0,150,0.1), 0 0 25px rgba(255,0,120,0.2);
+    /* ROUGE: bordure 1px solide */
+    border: 1px solid rgba(255,100,100,0.2);
+    /* ROUGE: ombre interne/externe */
+    box-shadow: inset 0 0 20px rgba(255,100,100,0.1), 0 0 25px rgba(255,50,50,0.2);
     transition: all .3s ease;
 }
 
 #slides-container:hover {
-    /* CHANGÉ: Hover gradient rouge-magenta */
-    background: radial-gradient(circle at bottom right, rgba(255,0,120,0.35), rgba(100,0,50,0.3));
+    /* ROUGE: Changement au survol (cercle coin inférieur droit) */
+    background: radial-gradient(circle at bottom right, rgba(255,50,50,0.35), rgba(100,0,0,0.3));
 }
 
 .backdrop-overlay {
-    /* CHANGÉ: Overlay bas rouge foncé */
+    /* ROUGE: Dégradé qui couvre le bas de l'overlay */
     background: linear-gradient(0deg, rgba(40,0,0,.85), 40%, transparent);
     border-radius: 35px 10px 35px 10px;
 }
