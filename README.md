@@ -40,6 +40,9 @@ Green Theme
 ## Screenshots
 
 <img width="1848" height="882" alt="image" src="https://github.com/user-attachments/assets/e5be0582-ab73-4b7d-9a6f-e02c8fc2bbd4" />
+<img width="1871" height="704" alt="image" src="https://github.com/user-attachments/assets/977d77d3-e506-4659-b993-d092a73b8028" />
+<img width="1869" height="709" alt="image" src="https://github.com/user-attachments/assets/3f654d4c-8d96-418f-bd33-1cfd64bf5176" />
+<img width="1858" height="701" alt="image" src="https://github.com/user-attachments/assets/9f95d5e1-1d1a-4dea-ac23-0860e3e33a0a" />
 
 ## Useful Links
 
@@ -95,6 +98,9 @@ Green Theme
 ## Captures d’écran
 
 <img width="1848" height="882" alt="image" src="https://github.com/user-attachments/assets/e5be0582-ab73-4b7d-9a6f-e02c8fc2bbd4" />
+<img width="1871" height="704" alt="image" src="https://github.com/user-attachments/assets/977d77d3-e506-4659-b993-d092a73b8028" />
+<img width="1869" height="709" alt="image" src="https://github.com/user-attachments/assets/3f654d4c-8d96-418f-bd33-1cfd64bf5176" />
+<img width="1858" height="701" alt="image" src="https://github.com/user-attachments/assets/9f95d5e1-1d1a-4dea-ac23-0860e3e33a0a" />
 
 ## Liens utiles
 
