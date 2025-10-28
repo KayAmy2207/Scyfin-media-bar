@@ -27,15 +27,15 @@ Transparent Theme
 ```
 ```css
 Neon Theme
-@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%202%20%20Néon.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%202%20%20Néon.css");
 ```
 ```css
 Red Theme
-@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%204%20%20Cin%C3%A9matique%20rouge%20profond%20.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%204%20%20Cin%C3%A9matique%20rouge%20profond%20.css");
 ```
 ```css
 Green Theme
-@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%203%20%20Vert%20organique%20translucide%20.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%203%20%20Vert%20organique%20translucide%20.css");
 ```
 ## Screenshots
 
@@ -81,15 +81,15 @@ Transparent Theme
 ```
 ```css
 Neon Theme
-@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%202%20%20Néon.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%202%20%20Néon.css");
 ```
 ```css
 Red Theme
-@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%204%20%20Cin%C3%A9matique%20rouge%20profond%20.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%204%20%20Cin%C3%A9matique%20rouge%20profond%20.css");
 ```
 ```css
 Green Theme
-@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%203%20%20Vert%20organique%20translucide%20.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%203%20%20Vert%20organique%20translucide%20.css");
 ```
 
 ## Captures d’écran
