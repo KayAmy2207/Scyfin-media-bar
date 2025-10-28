@@ -27,15 +27,15 @@ Transparent Theme
 ```
 ```css
 Neon Theme
-@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%202%20%20Néon.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design2_Neon.css");
 ```
 ```css
 Red Theme
-@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%204%20%20Cin%C3%A9matique%20rouge%20profond%20.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design4_RougeCinematique.css");
 ```
 ```css
 Green Theme
-@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%203%20%20Vert%20organique%20translucide%20.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design3_VertTranslucide.css");
 ```
 ## Screenshots
 
@@ -81,15 +81,15 @@ Transparent Theme
 ```
 ```css
 Neon Theme
-@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%202%20%20Néon.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design2_Neon.css");
 ```
 ```css
 Red Theme
-@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%204%20%20Cin%C3%A9matique%20rouge%20profond%20.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design4_RougeCinematique.css");
 ```
 ```css
 Green Theme
-@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/ScyFin%20Media%20Bar%20-%20Design%203%20%20Vert%20organique%20translucide%20.css");
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design3_VertTranslucide.css");
 ```
 
 ## Captures d’écran
