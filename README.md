@@ -22,9 +22,21 @@
 Simply add the CSS via `@import` in your Jellyfin project:
 
 ```css
+Transparent Theme
 @import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/scyfinmediabar.css");
 ```
-
+```css
+Neon Theme
+@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%202%20%20Néon.css");
+```
+```css
+Red Theme
+@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%204%20%20Cin%C3%A9matique%20rouge%20profond%20.css");
+```
+```css
+Green Theme
+@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%203%20%20Vert%20organique%20translucide%20.css");
+```
 ## Screenshots
 
 <img width="1848" height="882" alt="image" src="https://github.com/user-attachments/assets/e5be0582-ab73-4b7d-9a6f-e02c8fc2bbd4" />
@@ -64,7 +76,20 @@ Simply add the CSS via `@import` in your Jellyfin project:
 Ajoutez simplement le CSS via `@import` dans votre projet Jellyfin :
 
 ```css
+Transparent Theme
 @import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/scyfinmediabar.css");
+```
+```css
+Neon Theme
+@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%202%20%20Néon.css");
+```
+```css
+Red Theme
+@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%204%20%20Cin%C3%A9matique%20rouge%20profond%20.css");
+```
+```css
+Green Theme
+@import url("https://raw.githubusercontent.com/KayAmy2207/Scyfin-media-bar/refs/heads/main/ScyFin%20Media%20Bar%20-%20Design%203%20%20Vert%20organique%20translucide%20.css");
 ```
 
 ## Captures d’écran
