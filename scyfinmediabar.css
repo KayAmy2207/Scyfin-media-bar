@@ -48,7 +48,7 @@
 }
 
 .logo-container {
-    top: 4vh;
+    top: 6vh;
 }
 
 .backdrop-overlay {
@@ -63,3 +63,4 @@
     .backdrop { transform-origin: center; }
 
 }
+
