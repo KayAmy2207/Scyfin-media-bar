@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="8dMLd7zYeLXV5JHsDrcZTmqnF70l_jjN-f4S9b57pnI" />
 # Scyfin Media Bar CSS
 
 **Scyfin Media Bar CSS** is a custom CSS theme for the **Media Bar** plugin in **Jellyfin**, providing a modern look with rounded corners and smooth integration with the Scyfin theme.
