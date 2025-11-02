@@ -37,12 +37,18 @@ Red Theme
 Green Theme
 @import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design3_VertTranslucide.css");
 ```
+```css
+Snow Theme
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/snow%20effect.css");
+```
 ## Screenshots
 
 <img width="1848" height="882" alt="image" src="https://github.com/user-attachments/assets/e5be0582-ab73-4b7d-9a6f-e02c8fc2bbd4" />
 <img width="1871" height="704" alt="image" src="https://github.com/user-attachments/assets/977d77d3-e506-4659-b993-d092a73b8028" />
 <img width="1869" height="709" alt="image" src="https://github.com/user-attachments/assets/3f654d4c-8d96-418f-bd33-1cfd64bf5176" />
 <img width="1858" height="701" alt="image" src="https://github.com/user-attachments/assets/9f95d5e1-1d1a-4dea-ac23-0860e3e33a0a" />
+<img width="1853" height="691" alt="image" src="https://github.com/user-attachments/assets/6463f844-25cf-48dc-a000-05ff50f72789" />
+
 
 ## Useful Links
 
@@ -94,13 +100,18 @@ Red Theme
 Green Theme
 @import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design3_VertTranslucide.css");
 ```
-
+```css
+Snow Theme
+@import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/snow%20effect.css");
+```
 ## Captures d’écran
 
 <img width="1848" height="882" alt="image" src="https://github.com/user-attachments/assets/e5be0582-ab73-4b7d-9a6f-e02c8fc2bbd4" />
 <img width="1871" height="704" alt="image" src="https://github.com/user-attachments/assets/977d77d3-e506-4659-b993-d092a73b8028" />
 <img width="1869" height="709" alt="image" src="https://github.com/user-attachments/assets/3f654d4c-8d96-418f-bd33-1cfd64bf5176" />
 <img width="1858" height="701" alt="image" src="https://github.com/user-attachments/assets/9f95d5e1-1d1a-4dea-ac23-0860e3e33a0a" />
+<img width="1853" height="691" alt="image" src="https://github.com/user-attachments/assets/bec92907-db8a-49b1-bf5e-c0a5330321f0" />
+
 
 ## Liens utiles
 
