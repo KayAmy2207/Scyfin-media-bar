@@ -1,0 +1,30 @@
+/* === NEIGE SIMPLE ET DISCRÈTE (Sans fort aléatoire) === */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    pointer-events: none;
+    z-index: 1;
+    /* On empile deux couches de flocons pour briser la répétition et donner de la profondeur */
+    background: 
+        /* Couche 1: flocons plus petits, plus rapides */
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle fill='%23f8f9fa' r='1.2' opacity='0.7'%3E%3Canimate attributeName='cy' values='-20;100' dur='8s' repeatCount='indefinite'/%3E%3C/circle%3E%3Ccircle fill='%23f8f9fa' r='1' cx='30' opacity='0.5'%3E%3Canimate attributeName='cy' values='-20;100' dur='10s' repeatCount='indefinite' begin='0.5s'/%3E%3C/circle%3E%3C/svg%3E") repeat,
+        /* Couche 2: flocons plus gros, plus lents, légèrement décalés */
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Ccircle fill='%23f8f9fa' r='1.8' opacity='0.6'%3E%3Canimate attributeName='cy' values='-20;120' dur='12s' repeatCount='indefinite'/%3E%3C/circle%3E%3Ccircle fill='%23f8f9fa' r='1.5' cx='60' opacity='0.4'%3E%3Canimate attributeName='cy' values='-20;120' dur='14s' repeatCount='indefinite' begin='1s'/%3E%3C/circle%3E%3C/svg%3E") repeat;
+        
+    animation: snowFall 15s linear infinite; /* Animation de chute verticale */
+    opacity: 0.7;
+    /* MODIFICATION : Ajout de blur(0.8px) pour l'effet de flou */
+    filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.5)) blur(0.8px);
+}
+
+@keyframes snowFall {
+    0% { background-position: 0 0; }
+    100% { background-position: 0 120vh; } /* Décalage vertical suffisant */
+}
+
+/* On retire toutes les keyframes drift/sway pour une descente simple */
+body::after {
+    /* Assure-toi que si body::after était utilisé pour le drift, il soit désactivé ou retiré */
+    content: none;
+}
