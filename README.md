@@ -38,7 +38,7 @@ Green Theme
 @import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design3_VertTranslucide.css");
 ```
 ```css
-Snow Theme
+Snow Theme (bug on player-need to be fixed)
 @import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/snow%20effect.css");
 ```
 ## Screenshots
@@ -101,7 +101,7 @@ Green Theme
 @import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/Design3_VertTranslucide.css");
 ```
 ```css
-Snow Theme
+Snow Theme (bug on player-need to be fixed)
 @import url("https://cdn.jsdelivr.net/gh/KayAmy2207/Scyfin-media-bar@main/snow%20effect.css");
 ```
 ## Captures d’écran
